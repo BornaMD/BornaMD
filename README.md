@@ -16,4 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BornaMD)
+
+A small reality check for this. most of my coding has been in R, not jupyter notebooks, html or python. close second is Python though. 
+
 [![Borná's GitHub stats](https://github-readme-stats.vercel.app/api?username=BornaMD)](https://github.com/BornaMD/github-readme-stats)
