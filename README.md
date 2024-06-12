@@ -1,22 +1,23 @@
-### Hi there 👋
+# Welcome to My GitHub Page!
 
-<!--
-**BornaMD/BornaMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a passionate learner with a strong background in economics, currently diving deep into the world of data science and data engineering. My journey in the tech world has been exciting, and I'm thrilled to share my projects and collaborations with you.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bring a unique blend of expertise in economics and technical skills to my work, aiming to bridge the gap between theoretical knowledge and practical application. My skill set includes:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BornaMD)
+- **Python**: 6 years of experience
+- **R**: 6 years of experience
+- **HTML + CSS**: 11 years of experience
+- **SQL**: 2 years of experience
+- **Matlab**: 4 years of experience
+- **JavaScript**: 4 months of experience
 
-A small reality check for this. most of my coding has been in R, not jupyter notebooks, html or python. close second is Python though. 
+On this page, you'll find a variety of projects showcasing my proficiency in these languages and my commitment to continuous learning and innovation.
 
-[![Borná's GitHub stats](https://github-readme-stats.vercel.app/api?username=BornaMD)](https://github.com/BornaMD/github-readme-stats)
+Feel free to explore, provide feedback, or reach out for collaboration!
+
+---
+
+Thank you for visiting!
+
